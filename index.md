@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ryan's Blog
+title: Home
 ---
 
 
